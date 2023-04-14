@@ -1,4 +1,4 @@
-# Latex Tutorial to create report in VSCode
+# Tutorial to create Latex report in VSCode
 ## Important Links
 Extension needed: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop <br>
 TexLive: https://www.tug.org/texlive/windows.html#install <br>
