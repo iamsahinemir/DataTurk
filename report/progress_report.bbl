@@ -20,10 +20,9 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{güllüpınar}
-F.~Güllüpınar, ``Sociology slides of last version sociology of religion,'' 2023.
-
-\bibitem{pınar}
-F.~Pınar, ``Sociology slides of last version sociology of religion,'' 2023.
+\bibitem{datatürk}
+\BIBentryALTinterwordspacing
+{iamemirsahin}. {DataTürk}. [Online]. Available: \url{{https://github.com/iamsahinemir/DataTurk}}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
