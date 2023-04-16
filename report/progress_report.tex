@@ -59,7 +59,7 @@ esad.emir34@stu.khas.edu.tr}
 
 \begin{abstract}
 This document is the first progress report for DataTürk's machine learning project.
-The document contains the details of the dataset cleansing process.
+The document contains the details of the dataset cleansing process and the summary of the given dataset.
 \end{abstract}
 
 \begin{IEEEkeywords}
@@ -67,17 +67,18 @@ machine learning, github, dataset, missing values, graphs
 \end{IEEEkeywords}
 
 \section{Introduction}
-We created a python script, which can be found on our repo\cite{datatürk}, to identify the missing values in our given dataset, and
+We have created a python script, which can be found on our repo\cite{datatürk}, to identify the missing values in our given dataset, and
 analyze the data according to their contextual meaning.
 \section{Data Preprocessing}
 
 \subsection{Dropping Some of the Columns and Filling the Values}
 
-We identified the columns that contained more than 50 percent of the missing data values in them and filled in the missing values in these numeric columns using the calculated mean of such columns.
-For non-numeric columns we used the mode.
+We identified the columns that contained more than 50 percent of the missing data values in them and filled in these
+ numeric columns using the calculated mean of such columns.
+For non-numeric columns we used the mode. In order to eliminate the bugs in the code, we took advantage of some sources and ChatGPT-4.
 
 \subsection{Creating a Binary Label for the Data}
-We converted the last columnt to a binary label column. 
+We converted the last columnt to a binary label column, which gave us a way to tag and identify these columns. 
 \subsection{Summary of the Dataset}
 
 Total number of missing values in the DataFrame: 0 \\
@@ -97,17 +98,24 @@ Total number of missing values in the DataFrame: 0 \\
 \begin{figure}
 \graphicspath{ {./images/} }
 \centerline{\includegraphics[scale=.42]{dataset2}}
-\caption[short]{Histogram of Column 0.}
+\caption[short]{Histogram of Column 15.}
 \label{graph2}
 \end{figure}
 \begin{figure}
 \graphicspath{ {./images/} }
 \centerline{\includegraphics[scale=.42]{dataset3}}
-\caption[short]{Scatter Plot of Columns 0 and 1.}
+\caption[short]{Positive correlation between the column 50 and 64.}
 \label{graph3}
 \end{figure}
+\begin{figure}
+\graphicspath{ {./images/} }
+\centerline{\includegraphics[scale=.65]{dataset4}}
+\caption[short]{.}
+\label{graph4}
+\end{figure}
 \pagebreak
-\section{Application of Classical Data Science Techniques}
+
+%\section{Application of Classical Data Science Techniques}
 
 % This bibliography style is added afterwards by MB for easier citation.
 \bibliographystyle{IEEEtran}
