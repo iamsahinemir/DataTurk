@@ -74,19 +74,30 @@ analyze the data according to their contextual meaning.
 \subsection{Dropping Some of the Columns and Filling the Values}
 
 We identified the columns that contained more than 50 percent of the missing data values in them and filled in these
- numeric columns using the calculated mean of such columns.
-For non-numeric columns we used the mode. In order to eliminate the bugs in the code, we took advantage of some sources and ChatGPT-4.
+ numeric columns using the calculated mean of such columns \cite{kaggle}.
+For non-numeric columns we used the mode. In order to eliminate the bugs in the code, we took advantage of some
+ sources \cite{gunes} \cite{akademi} and ChatGPT-4.
 
-\subsection{Creating a Binary Label for the Data}
+\subsection{Creating a Binary Label for the Dataset}
 We converted the last columnt to a binary label column, which gave us a way to tag and identify these columns. 
+\section{Appendices}
 \subsection{Summary of the Dataset}
 
-Total number of missing values in the DataFrame: 0 \\
-\indent Total number of missing values in binary label column: 0\\
-\indent Non-numerical columns number is: 13\\
-\indent Numerical columns number is: 68\\
-\indent Total number of rows in the DataFrame: 246008\\
-\indent Total number of columns in the DataFrame: 81
+\begin{center}
+\begin{tabular}{ |c|c| }
+    \hline
+    Missing values & 0  \\       
+    \hline
+    Non-numerical columns & 13 \\
+    \hline
+    Numerical columns & 68 \\
+    \hline
+    Rows & 246008 \\
+    \hline
+    Columns & 81 \\
+    \hline
+\end{tabular}
+\end{center}
 
 \begin{figure}
 \graphicspath{ {./images/} }

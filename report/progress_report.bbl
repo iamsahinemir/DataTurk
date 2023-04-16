@@ -25,4 +25,19 @@
 {iamemirsahin}. {DataTürk}. [Online]. Available: \url{{https://github.com/iamsahinemir/DataTurk}}
 \BIBentrySTDinterwordspacing
 
+\bibitem{kaggle}
+\BIBentryALTinterwordspacing
+{Cook, A}. {Handling Missing Values}. [Online]. Available: \url{{https://www.kaggle.com/code/alexisbcook/handling-missing-values}}
+\BIBentrySTDinterwordspacing
+
+\bibitem{gunes}
+\BIBentryALTinterwordspacing
+{Güneş, A}. {Python ile Veri Temizleme ve Ön İşleme}. [Online]. Available: \url{{https://alprgunes.medium.com/}}
+\BIBentrySTDinterwordspacing
+
+\bibitem{akademi}
+\BIBentryALTinterwordspacing
+{TirendazAkademi}. {Nasıl Veri Bilimcisi Olunur}. [Online]. Available: \url{{https://tirendazakademi.medium.com/}}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

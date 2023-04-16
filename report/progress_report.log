@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.14)  16 APR 2023 21:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.14)  16 APR 2023 21:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -313,22 +313,22 @@ LaTeX Font Info:    Calculating math sizes for size <11> on input line 58.
 <dataset.png, id=1, 396.0396pt x 311.4837pt>
 File: dataset.png Graphic file (type png)
 <use dataset.png>
-Package pdftex.def Info: dataset.png  used on input line 93.
+Package pdftex.def Info: dataset.png  used on input line 104.
 (pdftex.def)             Requested size: 257.42268pt x 202.462pt.
 <dataset2.png, id=3, 620.7993pt x 338.2236pt>
 File: dataset2.png Graphic file (type png)
 <use dataset2.png>
-Package pdftex.def Info: dataset2.png  used on input line 100.
+Package pdftex.def Info: dataset2.png  used on input line 111.
 (pdftex.def)             Requested size: 260.73393pt x 142.05293pt.
 <dataset3.png, id=4, 617.9085pt x 338.2236pt>
 File: dataset3.png Graphic file (type png)
 <use dataset3.png>
-Package pdftex.def Info: dataset3.png  used on input line 106.
+Package pdftex.def Info: dataset3.png  used on input line 117.
 (pdftex.def)             Requested size: 259.51979pt x 142.05293pt.
 <dataset4.png, id=5, 372.1905pt x 302.0886pt>
 File: dataset4.png Graphic file (type png)
 <use dataset4.png>
-Package pdftex.def Info: dataset4.png  used on input line 112.
+Package pdftex.def Info: dataset4.png  used on input line 123.
 (pdftex.def)             Requested size: 241.92096pt x 196.35526pt.
  [1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
@@ -349,15 +349,15 @@ Before submitting the final camera ready copy, remember to:
 
  <./dataset3.png> <./dataset4.png>] (./progress_report.aux) ) 
 Here is how much of TeX's memory you used:
- 5199 strings out of 476017
- 80865 string characters out of 5793766
- 1863660 words of memory out of 5000000
- 25609 multiletter control sequences out of 15000+600000
- 550326 words of font info for 110 fonts, out of 8000000 for 9000
+ 5209 strings out of 476017
+ 80965 string characters out of 5793766
+ 1864660 words of memory out of 5000000
+ 25619 multiletter control sequences out of 15000+600000
+ 551380 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,62p,412b,307s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on progress_report.pdf (2 pages, 136470 bytes).
+Output written on progress_report.pdf (2 pages, 137307 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
