@@ -13,7 +13,7 @@
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
 \begin{document}
 
-\title{DataTürk Project\\
+\title{DataTürk \\
 {\footnotesize \textsuperscript{}}
 \thanks{}
 }
@@ -69,6 +69,7 @@ machine learning, github, dataset, missing values, graphs
 \section{Introduction}
 We have created a python script\cite{datatürk}, in order to identify the missing values in our given dataset, and
 analyze the data according to their contextual meaning.
+Later, we visualised some parts of the dataset to be able to understand it better.
 \section{Data Preprocessing}
 
 \subsection{Dropping Some of the Columns and Filling the Values}
@@ -82,29 +83,42 @@ For non-numeric columns, we used the mode. In order to eliminate the bugs in the
 We converted the last columnt to a binary label column, which gave us a way to tag and identify these columns. 
 \section{Appendices}
 \subsection{Summary of the Dataset}
-
+The dataset is can be seen as:
 \begin{center}
 \begin{tabular}{ |c|c| }
     \hline
-    Missing values & 0  \\       
+    \textbf{Statistic} & \textbf{Value} \\
+    \hline
+    Missing values (before) & 7318445 \\
+    \hline
+    Missing values (after) & 0  \\       
     \hline
     Non-numerical columns & 13 \\
     \hline
     Numerical columns & 68 \\
     \hline
-    Rows & 246008 \\
+    Total Rows & 246008 \\
     \hline
-    Columns & 81 \\
+    Total Columns & 81 \\
     \hline
 \end{tabular}
 \end{center}
 
 \begin{figure}
 \graphicspath{ {./images/} }
-\centerline{\includegraphics[scale=.65]{dataset}}
+\centerline{\includegraphics[scale=.45]{dataset}}
 \caption[short]{Correlation between information on the dataset.}
 \label{graph}
 \end{figure}
+\pagebreak
+\begin{figure}
+\graphicspath{ {./images/} }
+\centerline{\includegraphics[scale=.45]{dataset4}}
+\caption[short]{Heatmap.}
+\label{graph4}
+\end{figure}
+Correlation analysis was performed in the first figure we came across. Our main purpose while doing this analysis is to determine the relationship between the variables and to understand them according to their directions and intensities. In this statistical method, it can be said that there is a significant relationship between both variables if it is less than 0.05 among the meanings we can understand. In our analysis, we proved this again in the heat map above, where the number values are the same in the red visible line. 
+The reason for using heatmap is actually to see the losses, separations or densities more clearly again. \\
 
 \begin{figure}
 \graphicspath{ {./images/} }
@@ -118,13 +132,6 @@ We converted the last columnt to a binary label column, which gave us a way to t
 \caption[short]{Positive correlation between the column 50 and 64.}
 \label{graph3}
 \end{figure}
-\begin{figure}
-\graphicspath{ {./images/} }
-\centerline{\includegraphics[scale=.65]{dataset4}}
-\caption[short]{.}
-\label{graph4}
-\end{figure}
-\pagebreak
 \section{Conclusion and Future Work}
 Our next step will be to go on the depths of machine learning with our cleansed dataset. 
 

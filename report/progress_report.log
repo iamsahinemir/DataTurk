@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.14)  18 APR 2023 12:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.14)  18 APR 2023 19:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -313,27 +313,33 @@ LaTeX Font Info:    Calculating math sizes for size <11> on input line 58.
 <dataset.png, id=1, 396.0396pt x 311.4837pt>
 File: dataset.png Graphic file (type png)
 <use dataset.png>
-Package pdftex.def Info: dataset.png  used on input line 104.
-(pdftex.def)             Requested size: 257.42268pt x 202.462pt.
-<dataset2.png, id=3, 620.7993pt x 323.7696pt>
-File: dataset2.png Graphic file (type png)
-<use dataset2.png>
-Package pdftex.def Info: dataset2.png  used on input line 111.
-(pdftex.def)             Requested size: 260.73393pt x 135.9823pt.
-<dataset3.png, id=4, 617.9085pt x 323.7696pt>
-File: dataset3.png Graphic file (type png)
-<use dataset3.png>
-Package pdftex.def Info: dataset3.png  used on input line 117.
-(pdftex.def)             Requested size: 259.51979pt x 135.9823pt.
-<dataset4.png, id=5, 372.1905pt x 302.0886pt>
+Package pdftex.def Info: dataset.png  used on input line 109.
+(pdftex.def)             Requested size: 178.21616pt x 140.16637pt.
+<dataset4.png, id=3, 372.1905pt x 302.0886pt>
 File: dataset4.png Graphic file (type png)
 <use dataset4.png>
-Package pdftex.def Info: dataset4.png  used on input line 123.
-(pdftex.def)             Requested size: 241.92096pt x 196.35526pt.
- [1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
+Package pdftex.def Info: dataset4.png  used on input line 116.
+(pdftex.def)             Requested size: 167.48418pt x 135.9386pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+
+ []
+
+[1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 
- <./dataset.png> <./dataset2.png>] (./progress_report.bbl)
+ <./dataset.png> <./dataset4.png>]
+<dataset2.png, id=15, 620.7993pt x 323.7696pt>
+File: dataset2.png Graphic file (type png)
+<use dataset2.png>
+Package pdftex.def Info: dataset2.png  used on input line 125.
+(pdftex.def)             Requested size: 260.73393pt x 135.9823pt.
+<dataset3.png, id=16, 617.9085pt x 323.7696pt>
+File: dataset3.png Graphic file (type png)
+<use dataset3.png>
+Package pdftex.def Info: dataset3.png  used on input line 131.
+(pdftex.def)             Requested size: 259.51979pt x 135.9823pt.
+ (./progress_report.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -347,17 +353,17 @@ Before submitting the final camera ready copy, remember to:
 
 [2
 
- <./dataset3.png> <./dataset4.png>] (./progress_report.aux) ) 
+ <./dataset2.png> <./dataset3.png>] (./progress_report.aux) ) 
 Here is how much of TeX's memory you used:
- 5210 strings out of 476017
- 80974 string characters out of 5793766
- 1864660 words of memory out of 5000000
+ 5211 strings out of 476017
+ 80980 string characters out of 5793766
+ 1866660 words of memory out of 5000000
  25620 multiletter control sequences out of 15000+600000
- 551380 words of font info for 115 fonts, out of 8000000 for 9000
+ 552487 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,62p,412b,307s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,62p,603b,307s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on progress_report.pdf (2 pages, 131945 bytes).
+Output written on progress_report.pdf (2 pages, 133143 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
