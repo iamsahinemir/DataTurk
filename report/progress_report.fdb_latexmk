@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex progress_report"] 1681809844 "progress_report.aux" "progress_report.bbl" "progress_report" 1681809881 0
-  "./bibliography.bib" 1681809837 570 00c30d9518baa7ab437634611f06b68f ""
+["bibtex progress_report"] 1681811167 "progress_report.aux" "progress_report.bbl" "progress_report" 1681811170 0
+  "./bibliography.bib" 1681811157 674 9540ba4d550fcb3d34e47dcdf555e9fc ""
   "c:/texlive/2023/texmf-dist/bibtex/bib/ieeetran/IEEEabrv.bib" 1681497842 20898 a5d2167c380db7dfff810b085c77ed63 ""
   "c:/texlive/2023/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1681497842 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "progress_report.aux" 1681809879 1708 061aced13468a9bb08e6679d7faeffcd "pdflatex"
+  "progress_report.aux" 1681811169 1748 3f058cf711a998b3e2e937770cb5dc81 "pdflatex"
   (generated)
   "progress_report.bbl"
   "progress_report.blg"
   (rewritten before read)
-["pdflatex"] 1681809878 "d:/dataturkRepo/DataTurk/report/progress_report.tex" "progress_report.pdf" "progress_report" 1681809881 0
+["pdflatex"] 1681811167 "d:/dataturkRepo/DataTurk/report/progress_report.tex" "progress_report.pdf" "progress_report" 1681811170 0
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1681495634 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1681496713 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1681504255 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -83,14 +83,14 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1681516527 4683147 9a6f76ba1d2531f688b92e219d43aae8 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1681516717 7885528 533621a2b96de07f644cbf204e0dab84 ""
   "c:/texlive/2023/texmf.cnf" 1681505696 713 e69b156964470283e0530f5060668171 ""
-  "d:/dataturkRepo/DataTurk/report/progress_report.tex" 1681809877 4515 97589cbe1f75a9eafc723faef0d271df ""
+  "d:/dataturkRepo/DataTurk/report/progress_report.tex" 1681811160 4516 c6ed35fe5fcc7a4339613a9e964ebdc6 ""
   "dataset.png" 1681655988 40678 18047f4ea94a40023df2e78b981b0eef ""
   "dataset2.png" 1681668561 17626 f3c7d156c127063c6038f235d29d08a9 ""
   "dataset3.png" 1681668490 21175 640a5f94ae94049b74a4a644696024e9 ""
   "dataset4.png" 1681668537 34308 d813b335964fbce97d055e6820bb83e2 ""
-  "progress_report.aux" 1681809879 1708 061aced13468a9bb08e6679d7faeffcd "pdflatex"
-  "progress_report.bbl" 1681809844 1647 bf795d309985f95be9fbcfa4495d1b76 "bibtex progress_report"
-  "progress_report.tex" 1681809877 4515 97589cbe1f75a9eafc723faef0d271df ""
+  "progress_report.aux" 1681811169 1748 3f058cf711a998b3e2e937770cb5dc81 "pdflatex"
+  "progress_report.bbl" 1681811167 1801 8233584c749ba3b063efddaa36115223 "bibtex progress_report"
+  "progress_report.tex" 1681811160 4516 c6ed35fe5fcc7a4339613a9e964ebdc6 ""
   (generated)
   "progress_report.aux"
   "progress_report.log"

@@ -40,4 +40,9 @@
 {TirendazAkademi}. {Nasıl Veri Bilimcisi Olunur}. [Online]. Available: \url{{https://tirendazakademi.medium.com/}}
 \BIBentrySTDinterwordspacing
 
+\bibitem{chatgpt}
+\BIBentryALTinterwordspacing
+{OpenAI}. {ChatGPT-3}. [Online]. Available: \url{{https://chat.openai.com/}}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
