@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex progress_report"] 1681834538 "progress_report.aux" "progress_report.bbl" "progress_report" 1681834600 0
+["bibtex progress_report"] 1681835293 "progress_report.aux" "progress_report.bbl" "progress_report" 1681835321 0
   "./bibliography.bib" 1681811157 674 9540ba4d550fcb3d34e47dcdf555e9fc ""
   "c:/texlive/2023/texmf-dist/bibtex/bib/ieeetran/IEEEabrv.bib" 1681497842 20898 a5d2167c380db7dfff810b085c77ed63 ""
   "c:/texlive/2023/texmf-dist/bibtex/bst/ieeetran/IEEEtran.bst" 1681497842 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "progress_report.aux" 1681834598 1748 b9e59ccc70f2faece8bc8f6e559414a8 "pdflatex"
+  "progress_report.aux" 1681835319 1748 b9e59ccc70f2faece8bc8f6e559414a8 "pdflatex"
   (generated)
   "progress_report.bbl"
   "progress_report.blg"
   (rewritten before read)
-["pdflatex"] 1681834596 "d:/dataturkRepo/DataTurk/report/progress_report.tex" "progress_report.pdf" "progress_report" 1681834600 0
+["pdflatex"] 1681835318 "d:/dataturkRepo/DataTurk/report/progress_report.tex" "progress_report.pdf" "progress_report" 1681835321 0
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1681495634 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1681496713 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1681504255 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -66,6 +66,7 @@
   "c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.sty" 1681494960 62761 3c92d495a9e03d7254b9a3266aa17164 ""
   "c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1681495989 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1681496139 46845 3b58f70c6e861a13d927bff09d35ecbc ""
+  "c:/texlive/2023/texmf-dist/tex/latex/float/float.sty" 1681496631 6749 16d2656a1984957e674b149555f1ea1d ""
   "c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1681497257 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1681497257 1224 978390e9c2234eab29404bc21b268d1e ""
   "c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def" 1681497259 19448 1e988b341dda20961a6b931bcde55519 ""
@@ -83,14 +84,14 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1681516527 4683147 9a6f76ba1d2531f688b92e219d43aae8 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1681516717 7885528 533621a2b96de07f644cbf204e0dab84 ""
   "c:/texlive/2023/texmf.cnf" 1681505696 713 e69b156964470283e0530f5060668171 ""
-  "d:/dataturkRepo/DataTurk/report/progress_report.tex" 1681834595 5395 4884897a1fc1d3cc836ae44ec67252d9 ""
+  "d:/dataturkRepo/DataTurk/report/progress_report.tex" 1681835317 6062 4cc8f14c241c59d2ca43dd070050af9e ""
   "dataset.png" 1681655988 40678 18047f4ea94a40023df2e78b981b0eef ""
   "dataset2.png" 1681811396 14343 460c3ae0fdebb23c3b530031423b2a7e ""
   "dataset3.png" 1681811401 16400 5891f0e79c91020045ae4e77260a7620 ""
   "dataset4.png" 1681668537 34308 d813b335964fbce97d055e6820bb83e2 ""
-  "progress_report.aux" 1681834598 1748 b9e59ccc70f2faece8bc8f6e559414a8 "pdflatex"
-  "progress_report.bbl" 1681834539 1801 8233584c749ba3b063efddaa36115223 "bibtex progress_report"
-  "progress_report.tex" 1681834595 5395 4884897a1fc1d3cc836ae44ec67252d9 ""
+  "progress_report.aux" 1681835319 1748 b9e59ccc70f2faece8bc8f6e559414a8 "pdflatex"
+  "progress_report.bbl" 1681835293 1801 8233584c749ba3b063efddaa36115223 "bibtex progress_report"
+  "progress_report.tex" 1681835317 6062 4cc8f14c241c59d2ca43dd070050af9e ""
   (generated)
   "progress_report.aux"
   "progress_report.log"

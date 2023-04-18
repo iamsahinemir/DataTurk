@@ -8,6 +8,7 @@
 \usepackage{algorithmic}
 \usepackage{graphicx}
 \usepackage{textcomp}
+\usepackage{float}
 \usepackage{xcolor}
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
@@ -104,34 +105,38 @@ The dataset is can be seen as:
 \end{tabular}
 \end{center}
 
-\begin{figure}
+\begin{figure}[H]
 \graphicspath{ {./images/} }
-\centerline{\includegraphics[scale=.45]{dataset}}
+\centerline{\includegraphics[scale=.50]{dataset}}
 \caption[short]{Correlation between information on the dataset.}
 \label{graph}
 \end{figure}
-\pagebreak
-\begin{figure}
+
+\begin{figure}[H]
 \graphicspath{ {./images/} }
-\centerline{\includegraphics[scale=.45]{dataset4}}
+\centerline{\includegraphics[scale=.50]{dataset4}}
 \caption[short]{Heatmap.}
 \label{graph4}
 \end{figure}
-Correlation analysis was performed in the first figure we came across. Our main purpose while doing this analysis is to determine the relationship between the variables and to understand them according to their directions and intensities. In this statistical method, it can be said that there is a significant relationship between both variables if it is less than 0.05 among the meanings we can understand. In our analysis, we proved this again in the heat map above, where the number values are the same in the red visible line. 
-The reason for using heatmap is actually to see the losses, separations or densities more clearly again. \\
-
-\begin{figure}
+Correlation analysis was performed in the figure \ref{graph}. Our main purpose while doing this analysis is to determine the relationship between the variables and to understand them according to their directions and intensities. In this statistical method, it can be said that there is a significant relationship between both variables if it is less than 0.05 among the meanings we can understand. In our analysis, we proved this again in the heat map above, where the number values are the same in the red visible line. 
+The reason for using heatmap is actually to see the losses, separations or densities more clearly again. 
+\begin{figure}[H]
 \graphicspath{ {./images/} }
 \centerline{\includegraphics[scale=.42]{dataset2}}
 \caption[short]{Histogram of Column 15.}
 \label{graph2}
+What can bee seen is the aim aimed in the histogram \ref{graph2} is actually used to determine the frequency distribution. As can be seen, it is observed that the 15th column is tilted to the right. As can be understood, we see that the value of 0.6 in milk 15 is more common. Among the reasons that we can see as the reasons for not being symmetrical will be the inconsistency of the variables.
 \end{figure}
-\begin{figure}
+
+\begin{figure}[H]
 \graphicspath{ {./images/} }
 \centerline{\includegraphics[scale=.42]{dataset3}}
 \caption[short]{Positive correlation between the column 50 and 64.}
 \label{graph3}
+The purpose of the Scatter Plot, which is used for columns 50 and 64, is to examine the relationship between two variables and to detect the change between the variables corresponding to two variables. As a result, a positive and strong relationship emerged.
 \end{figure}
+
+
 \section{Conclusion and Future Work}
 Our next step will be to go on the depths of machine learning with our cleansed dataset. 
 
