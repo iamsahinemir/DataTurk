@@ -20,11 +20,6 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{datatürk}
-\BIBentryALTinterwordspacing
-{iamemirsahin}. {DataTürk}. [Online]. Available: \url{{https://github.com/iamsahinemir/DataTurk}}
-\BIBentrySTDinterwordspacing
-
 \bibitem{kaggle}
 \BIBentryALTinterwordspacing
 {Cook, A}. {Handling Missing Values}. [Online]. Available: \url{{https://www.kaggle.com/code/alexisbcook/handling-missing-values}}
