@@ -53,6 +53,7 @@ print(f"Total number of columns in the DataFrame: {len(df.columns)}")
 
 new_column_names = [str(i) for i in range(df.shape[1])]
 df.columns = new_column_names
+print(new_column_names)
 
 # Ordinal encoding for categorical features
 ordinal_encoder = OrdinalEncoder()
